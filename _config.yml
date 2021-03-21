@@ -1,5 +1,5 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/Girls-Coding-Day-Jekyll-blog-1"
+baseurl: "/girls-coding-day"
 
 # 网站的主标题
 title: "Girls Coding Day"
